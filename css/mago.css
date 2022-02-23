@@ -1,0 +1,203 @@
+
+/*Formato General*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  /*Titulo*/ 
+.h1-titulo {
+    font-family: 'Yusei Magic', sans-serif;
+    color: whitesmoke;
+    margin-top: 7%;
+    float: left;
+    margin-left: 2%;
+    font-size: 250%
+}
+
+  /*Cuadro de texto*/
+
+.div-container {
+   width: 30vw;
+   background-color: rgba(255, 255, 255, 0.568);
+   border-radius: 2%;
+   position: absolute;
+   right: 3%;
+   margin-top: 5%;
+   margin-right: 5%;
+}
+
+p  {
+       padding: 2%;
+       text-align: center;
+       font-size: larger;
+}
+
+.input-1 {
+       margin-left: 3%;
+       width: 90%;
+}
+
+#pais {
+    margin-bottom: 5%;
+}
+
+.boton {
+    margin-left: 45%;
+    margin-bottom: 3%;
+}
+
+.boton2 {
+    margin-left: 45%;
+    margin-bottom: 3%;
+
+}
+
+
+    /*Textos de Historia*/
+
+    .contHistoria1 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+    }
+
+    .contHistoria2 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria3 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+    
+    .contHistoria4 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria5 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria6 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria7 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria8 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+    .contHistoria9 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+
+    .contHistoria10 {
+
+        width: 35vw;
+        position: absolute;
+        right: 3%;
+        margin-top: 6%;
+        margin-right: 5%;
+        font-size:x-large;
+        text-align: center;  
+        padding: 2%;
+        color: aliceblue;
+    }
+    /*Imagen 1*/
+
+body {
+    background-image: url(/img/img-portada.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: cover; 
+}
+
+ /*Botonera historia 6*/
+
+ .button3 {
+     padding: 2%;
+     background-color: rgb(156, 156, 1);
+ }
